@@ -1,0 +1,13 @@
+# Ignorar archivos compilados de Java
+*.class
+
+# Ignorar la carpeta bin o out donde se generan los archivos compilados
+bin/
+out/
+
+# Ignorar archivos de configuración de la IDE
+.vscode/
+.idea/
+
+# Ignorar archivos de logs
+*.log

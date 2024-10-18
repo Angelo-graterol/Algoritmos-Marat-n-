@@ -28,3 +28,7 @@
 [Enlace del problema en kattis](https://open.kattis.com/problems/detaileddifferences)
 
 ---
+## A Second Opinion
+[Enlace de problema A Second Opinion](https://open.kattis.com/problems/secondopinion)
+
+### Objetivo del algoritmo

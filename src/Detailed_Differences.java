@@ -41,7 +41,7 @@ public class Detailed_Differences{
             System.out.println(comparacion.toString());
             System.out.println(); // Línea en blanco después de cada caso de prueba
 
-
+            System.out.println();
         }
 
 
